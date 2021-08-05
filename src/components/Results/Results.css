@@ -1,0 +1,21 @@
+.results {
+    width: 96%;
+    text-align: left;
+    height: auto;
+    display: flex;
+    flex-direction: column; 
+  }
+
+.row {
+  display: flex;
+  width: 98%; 
+  margin-left: 1rem; 
+}
+
+.results h4,p {
+    width: 20%;
+    text-align: right;
+  }
+  
+ 
+ 
